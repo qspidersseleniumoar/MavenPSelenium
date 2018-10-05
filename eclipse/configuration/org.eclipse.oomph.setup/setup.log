@@ -1,0 +1,98 @@
+[2018-02-23 18:38:51] Executing bootstrap tasks
+[2018-02-23 18:38:51] Java(TM) SE Runtime Environment 1.8.0_161-b12
+[2018-02-23 18:38:51] Product org.eclipse.products.epp.package.jee.oxygen
+[2018-02-23 18:38:51] Bundle org.eclipse.oomph.setup 1.9.0.v20171202-1121, build=3282, branch=f99b41819cc9f86beec6b54bf453173fc2d4acef
+[2018-02-23 18:38:51] Bundle org.eclipse.oomph.setup.core 1.9.0.v20171202-1121, build=3282, branch=f99b41819cc9f86beec6b54bf453173fc2d4acef
+[2018-02-23 18:38:51] Bundle org.eclipse.oomph.setup.p2 1.9.0.v20171202-1121, build=3282, branch=f99b41819cc9f86beec6b54bf453173fc2d4acef
+[2018-02-23 18:38:51] Performing P2 Director (Eclipse IDE for Java EE Developers (Oxygen))
+[2018-02-23 18:38:51] Offline = false
+[2018-02-23 18:38:51] Mirrors = true
+[2018-02-23 18:38:51] Resolving 65 requirements from 3 repositories to C:\Users\Administrator\eclipse\eclipse
+[2018-02-23 18:38:51] Requirement epp.package.jee [4.7.0,4.8.0)
+[2018-02-23 18:38:51] Requirement org.eclipse.platform.feature.group [4.7.0,4.8.0)
+[2018-02-23 18:38:51] Requirement org.eclipse.rcp.feature.group [4.7.0,4.8.0)
+[2018-02-23 18:38:51] Requirement org.eclipse.buildship.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.cft.server.core.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.cft.server.ui.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.datatools.common.doc.user.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.datatools.connectivity.doc.user.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.datatools.connectivity.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.datatools.doc.user.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.datatools.enablement.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.datatools.intro.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.datatools.modelbase.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.datatools.sqldevtools.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.datatools.sqltools.doc.user.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.eclemma.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.egit.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.egit.mylyn.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jdt.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jpt.common.eclipselink.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jpt.common.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jpt.dbws.eclipselink.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jpt.jaxb.eclipselink.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jpt.jaxb.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jpt.jpa.eclipselink.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jpt.jpa.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jsf.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jst.common.fproj.enablement.jdt.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jst.enterprise_ui.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jst.jsf.apache.trinidad.tagsupport.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jst.server_adapters.ext.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jst.server_adapters.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jst.server_ui.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jst.web_ui.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jst.webpageeditor.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jst.ws.axis2tools.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jst.ws.cxf.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jst.ws.jaxws.dom.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.jst.ws.jaxws.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.m2e.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.m2e.logback.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.m2e.wtp.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.m2e.wtp.jaxrs.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.m2e.wtp.jpa.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.m2e.wtp.jsf.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.mylyn.bugzilla_feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.mylyn.context_feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.mylyn.ide_feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.mylyn.java_feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.mylyn.wikitext_feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.mylyn_feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.pde.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.recommenders.mylyn.rcp.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.recommenders.rcp.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.rse.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.rse.useractions.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.tm.terminal.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.wst.common.fproj.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.wst.jsdt.chromium.debug.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.wst.jsdt.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.wst.server_adapters.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.wst.web_ui.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.wst.xml_ui.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.wst.xsl.feature.feature.group
+[2018-02-23 18:38:51] Requirement org.eclipse.oomph.setup.feature.group
+[2018-02-23 18:38:51] Repository http://download.eclipse.org/technology/epp/packages/oxygen
+[2018-02-23 18:38:51] Repository http://download.eclipse.org/releases/oxygen
+[2018-02-23 18:38:51] Repository http://download.eclipse.org/oomph/updates/milestone/latest
+[2018-02-23 18:38:52] ERROR: org.eclipse.equinox.p2.metadata.repository code=1002 Unable to read repository at http://download.eclipse.org/releases/oxygen.
+java.io.IOException: http://download.eclipse.org/releases/oxygen is not a valid repository location.
+  at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+  at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+  at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+  at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+  at java.lang.reflect.Method.invoke(Unknown Source)
+  at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+  at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+  at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+  at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+  at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+  at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl$RepositoryLoader$Worker.perform(ProfileTransactionImpl.java:1613)
+  at org.eclipse.oomph.util.WorkerPool$Worker.run(WorkerPool.java:428)
+  at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+[2018-02-23 18:38:52] 
