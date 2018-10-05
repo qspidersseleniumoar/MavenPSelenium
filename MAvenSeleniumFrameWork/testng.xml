@@ -6,9 +6,7 @@
   
     <classes>
       <class name="com.crm.contacttest.ContactTest">
-        		<methods>
-        		    <include name="createConatctTest"/>
-        		</methods>
+        		
         </class>
     </classes>
   </test> <!-- Test -->

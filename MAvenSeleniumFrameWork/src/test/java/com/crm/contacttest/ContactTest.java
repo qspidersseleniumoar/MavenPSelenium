@@ -9,9 +9,7 @@ public class ContactTest {
 	@Test
 	public void createConatctTest() {
 		System.out.println("execute createConatctTest");
-		WebDriver driver = new FirefoxDriver();
-		driver.get("https://gmail.com");
-		driver.close();
+	
 	}
 	
 	@Test
