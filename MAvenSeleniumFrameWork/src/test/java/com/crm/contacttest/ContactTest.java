@@ -1,28 +1,17 @@
 package com.crm.contacttest;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 public class ContactTest {
 	
 	@Test
-	public void createConatctTest() {
-		System.out.println("execute createConatctTest");
-	
+	public void cerateCustomerTest() {
+		System.out.println("test 1");
 	}
-	
+
 	@Test
-	public void modifyConatctTest() {
-		System.out.println("execute modifyConatctTest");
-
+	public void modifyCustomerTest() {
+		System.out.println("test 2");
 	}
 	
-	@Test
-	public void deleteConatctTest() {
-		System.out.println("execute deleteConatctTest");
-
-	}
-
-
 }
